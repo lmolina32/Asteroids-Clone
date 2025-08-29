@@ -13,12 +13,12 @@ make
 ```
 This produces an executable called runproject.
 
-###Run the game:
+### Run the game:
 ```bash
 ./runproject
 ```
 
-###To clean up object files and the executable:
+### To clean up object files and the executable:
 ```bash
 make clean
 ```
